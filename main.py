@@ -9,3 +9,4 @@ def Land(a, b):
         return Land(a, b - a)
 
 print(Land(2, 6))
+print(Land(100, 60))
